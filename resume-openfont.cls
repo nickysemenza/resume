@@ -61,7 +61,7 @@ Last Updated on
 	\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
 	\vspace{-18pt}
 }
-\titlespacing{\section}{0pt}{0pt}{0pt}
+\titlespacing{\section}{0pt}{1pt}{1pt}
 
 % Section seperators 
 \usepackage{titlesec}
